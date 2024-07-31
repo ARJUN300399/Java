@@ -1,6 +1,6 @@
-package com.java.Ecom.repo;
+package com.java.simpleWebApp.repository;
 
-import com.java.Ecom.model.Product;
+import com.java.simpleWebApp.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
